@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning CSS, JS
+- 🌱 I’m currently learning CSS, JS, React
 - 📫 How to reach me: wowastrelkov80@gmail.com
 - ⚡ I speak Russian (native), Ukranian, English (B2) ...
 -->
